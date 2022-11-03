@@ -8,7 +8,7 @@
 - :atom: Amante de ciências e matemática
 - :earth_americas: Por um mundo mais digital!
 - :octocat: LET'S CODE!
-- 
+
 <br>
 
 <div align="center">
