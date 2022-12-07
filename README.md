@@ -7,6 +7,7 @@
 - :computer: Back-End Developer 
 - :atom: Amante de ciências e matemática
 - :earth_americas: Por um mundo mais digital!
+- :coffee: Java lover ~
 - :octocat: LET'S CODE!
 
 <br>
