@@ -3,13 +3,6 @@
 
 <br>
 
-- :building_construction: Sou graduado em Engenharia Civil e migrei para a área Tech
-- :computer: Back-End Developer 
-- :atom: Amante de ciências e matemática
-- :earth_americas: Por um mundo mais digital!
-- :coffee: Java lover ~
-- :octocat: LET'S CODE!
-
 <div align="center">
   <a href="https://github.com/Rafael-Bessa">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Rafael-Bessa&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
