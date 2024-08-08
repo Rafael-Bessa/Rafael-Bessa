@@ -1,10 +1,8 @@
 
 # Heeey there 👋
 
-- :building_construction: Sou graduado em Engenharia Civil e migrei para a área Tech
 - :computer: Back-End Developer 
 - :atom: Amante de ciências e matemática
-- :earth_americas: Por um mundo mais digital!
 - :coffee: Java lover ~
 - :octocat: LET'S CODE!
 
