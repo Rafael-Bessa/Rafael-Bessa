@@ -1,11 +1,9 @@
 
-# Heeey there 👋
+# Hello, World 👋
 
 - :computer: Back-End Developer 
-- :atom: Amante de ciências e matemática
 - :coffee: Java lover ~
-- :octocat: LET'S CODE!
-
+  
 <br>
 
 <div align="center">
