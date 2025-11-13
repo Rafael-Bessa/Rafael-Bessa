@@ -35,71 +35,35 @@ public class RafaelBessa {
     }
 }
 
-<br>
+## 🛠️ Tech Stack 
 
-## 🎯 Áreas de Expertise
+<p align="center">
+  <img src="https://unpkg.com/devicon/icons/java/java-original.svg" height="48" />
+  <img src="https://unpkg.com/devicon/icons/cplusplus/cplusplus-original.svg" height="48" />
+  <img src="https://unpkg.com/devicon/icons/csharp/csharp-original.svg" height="48" />
+  <img src="https://unpkg.com/devicon/icons/python/python-original.svg" height="48" />
+</p>
 
-<div align="center">
+<p align="center">
+  <img src="https://unpkg.com/devicon/icons/spring/spring-original.svg" height="48" />
+  <img src="https://unpkg.com/devicon/icons/hibernate/hibernate-original.svg" height="48" />
+  <img src="https://unpkg.com/devicon/icons/dotnet/dotnet-original.svg" height="48" />
+</p>
 
-| Backend | Banco de Dados | DevOps |
-|:---:|:---:|:---:|
-| Java & Spring Boot | SQL Server ⭐ | Docker |
-| API REST | MySQL & MongoDB | Git & GitHub |
-| JPA & Hibernate | PostgreSQL | Maven |
+<p align="center">
+  <img src="https://unpkg.com/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="48" />
+  <img src="https://unpkg.com/devicon/icons/mysql/mysql-original.svg" height="48" />
+  <img src="https://unpkg.com/devicon/icons/mongodb/mongodb-original.svg" height="48" />
+  <img src="https://unpkg.com/devicon/icons/postgresql/postgresql-original.svg" height="48" />
+</p>
 
-</div>
-
-<br>
-
-## 🛠️ Tech Stack (com ícones)
-
-<div align="center">
-
-<!-- Linguagens -->
-<img src="https://unpkg.com/devicon/icons/java/java-original.svg" height="48" />
-<img src="https://unpkg.com/devicon/icons/cplusplus/cplusplus-original.svg" height="48" />
-<img src="https://unpkg.com/devicon/icons/csharp/csharp-original.svg" height="48" />
-<img src="https://unpkg.com/devicon/icons/python/python-original.svg" height="48" />
-
-<br><br>
-
-<!-- Frameworks -->
-<img src="https://unpkg.com/devicon/icons/spring/spring-original.svg" height="48" />
-<img src="https://unpkg.com/devicon/icons/hibernate/hibernate-original.svg" height="48" />
-<img src="https://unpkg.com/devicon/icons/dotnet/dotnet-original.svg" height="48" />
-
-<br><br>
-
-<!-- Bancos -->
-<img src="https://unpkg.com/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="48" />
-<img src="https://unpkg.com/devicon/icons/mysql/mysql-original.svg" height="48" />
-<img src="https://unpkg.com/devicon/icons/mongodb/mongodb-original.svg" height="48" />
-<img src="https://unpkg.com/devicon/icons/postgresql/postgresql-original.svg" height="48" />
-
-<br><br>
-
-<!-- Ferramentas -->
-<img src="https://unpkg.com/devicon/icons/docker/docker-original.svg" height="48" />
-<img src="https://unpkg.com/devicon/icons/git/git-original.svg" height="48" />
-<img src="https://unpkg.com/devicon/icons/apachemaven/apachemaven-original.svg" height="48" />
-<img src="https://unpkg.com/devicon/icons/intellij/intellij-original.svg" height="48" />
-<img src="https://unpkg.com/devicon/icons/vscode/vscode-original.svg" height="48" />
-
-</div>
-
-<br>
-
-## 📫 Contato
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/rafaelmbessa/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:rafaelbessadev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</div>
-```
+<p align="center">
+  <img src="https://unpkg.com/devicon/icons/docker/docker-original.svg" height="48" />
+  <img src="https://unpkg.com/devicon/icons/git/git-original.svg" height="48" />
+  <img src="https://unpkg.com/devicon/icons/apachemaven/apachemaven-original.svg" height="48" />
+  <img src="https://unpkg.com/devicon/icons/intellij/intellij-original.svg" height="48" />
+  <img src="https://unpkg.com/devicon/icons/vscode/vscode-original.svg" height="48" />
+</p>
 
 
 
