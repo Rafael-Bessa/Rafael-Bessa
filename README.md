@@ -83,9 +83,10 @@ public class RafaelBessa {
 ## 📊 Metrics
 
 <div align="center">
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Rafael-Bessa&theme=tokyonight&hide_border=true&background=0D1117" />
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Rafael-Bessa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Bessa&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </div>
+
 
 
 ## 📫 Contato
