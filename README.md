@@ -28,9 +28,6 @@ public class RafaelBessa {
     public void contato() {
         System.out.println("💼 LinkedIn: linkedin.com/in/rafaelmbessa");
         System.out.println("📺 YouTube: youtube.com/@rafaelmbessa");
-        System.out.println("📸 Instagram: instagram.com/rafaelmbessa");
-        System.out.println("💻 GitHub: github.com/Rafael-Bessa");
-        System.out.println("🎯 HackerRank: hackerrank.com/rafaelmbessa");
         System.out.println("📧 Email: rafaelbessadev@gmail.com");
     }
 }
