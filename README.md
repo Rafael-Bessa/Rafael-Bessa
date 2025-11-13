@@ -80,6 +80,24 @@ public class RafaelBessa {
 </div>
 
 
+## 📊 Metrics
+
+<div align="center">
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Rafael-Bessa&theme=tokyonight&hide_border=true&background=0D1117" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Rafael-Bessa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" />
+</div>
+
+
+## 📫 Contato
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/rafaelmbessa/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28">
+  </a>
+  <a href="mailto:rafaelbessadev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28">
+  </a>
+</div>
 
 
 
