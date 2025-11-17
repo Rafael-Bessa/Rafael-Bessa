@@ -22,9 +22,7 @@ public class RafaelBessa {
     private String formacao = "Análise e Desenvolvimento de Sistemas";
     private String localizacao = "São Paulo, Brasil 🇧🇷";
     private String[] linguagens = {"Java", "C++", "C#", "Python"};
-    private String especialidade = "Java & SQL Server";
-    private String foco = "Desenvolvimento de APIs REST";
-    
+   
     public void contato() {
         System.out.println("💼 LinkedIn: linkedin.com/in/rafaelmbessa");
         System.out.println("📺 YouTube: youtube.com/@rafaelmbessa");
