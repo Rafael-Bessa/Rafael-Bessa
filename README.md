@@ -19,9 +19,7 @@ public class RafaelBessa {
     
     private String nome = "Rafael Bessa";
     private String cargo = "Back-End Developer";
-    private String formacao = "Análise e Desenvolvimento de Sistemas";
     private String localizacao = "São Paulo, Brasil 🇧🇷";
-    private String[] linguagens = {"Java", "C++", "C#", "Python"};
    
     public void contato() {
         System.out.println("💼 LinkedIn: linkedin.com/in/rafaelmbessa");
