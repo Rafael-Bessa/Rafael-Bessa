@@ -1,20 +1,30 @@
-# Notas da versão profissional
+# Notas desta versão
 
-## Por que os cards de métricas foram removidos
+Esta versão foi pensada para o README do perfil, não para substituir o portfólio.
 
-A versão anterior usava `github-readme-stats.vercel.app` para estatísticas e linguagens. Esses cards dependem de um serviço público externo e podem falhar temporariamente por limites da API ou indisponibilidade.
+## O que foi removido de propósito
 
-Além disso, o próprio projeto GitHub Readme Stats alerta que o card "Top Languages" não representa nível de habilidade; ele mede a quantidade de código detectada nos repositórios públicos não-forkados.
+- lista de cursos e formações;
+- vídeo do YouTube;
+- tabela detalhada de projetos;
+- estatísticas de linguagens;
+- cards externos de GitHub Stats;
+- textos longos sobre trajetória.
 
-Para um perfil profissional voltado a recrutadores, esta versão privilegia:
+## Por quê
 
-- identidade clara;
-- stack principal;
-- projetos verificáveis;
-- formação;
-- portfólio e YouTube;
-- links que continuam úteis mesmo se um serviço de terceiros cair.
+O perfil já mostra repositórios fixados logo abaixo do README. Repetir os projetos em uma tabela aumenta o comprimento sem adicionar muito valor.
 
-## Se quiser estatísticas dinâmicas no futuro
+Cards de estatísticas e porcentagem de linguagens dependem de serviços externos e podem falhar ou apresentar números que não representam domínio técnico. Esta versão usa somente um banner local e badges simples.
 
-A opção mais confiável é hospedar sua própria instância do GitHub Readme Stats (por exemplo na Vercel) com seu token GitHub e então apontar os cards para sua própria URL.
+## Recomendação para os repositórios fixados
+
+Fixar nesta ordem:
+
+1. TaskFlow
+2. ecommerce-microservices-spring
+3. family-budget-api
+4. financial-fraud-detector
+5. rafael-bessa.github.io
+
+O sexto slot pode ficar para um projeto futuro ou desafio técnico particularmente forte.
